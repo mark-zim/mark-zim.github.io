@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Break Glass</title>
+    <link href="https://mark-zim.github.io/feed.xml" rel="self" />
+    <link href="https://mark-zim.github.io" />
+    <updated>2020-11-27T10:36:04-05:00</updated>
+    <author>
+        <name>Mark Zimmerman</name>
+    </author>
+    <id>https://mark-zim.github.io</id>
+
+    <entry>
+        <title>headline</title>
+        <author>
+            <name>Mark Zimmerman</name>
+        </author>
+        <link href="https://mark-zim.github.io/headline.html"/>
+        <id>https://mark-zim.github.io/headline.html</id>
+
+        <updated>2020-11-27T10:36:04-05:00</updated>
+            <summary>
+                <![CDATA[
+                    text and such 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>text and such</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

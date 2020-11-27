@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Break Glass",
+    "description": "",
+    "home_page_url": "https://mark-zim.github.io",
+    "feed_url": "https://mark-zim.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mark Zimmerman"
+    },
+    "items": [
+        {
+            "id": "https://mark-zim.github.io/headline.html",
+            "url": "https://mark-zim.github.io/headline.html",
+            "title": "headline",
+            "summary": "text and such ",
+            "content_html": "<p>text and such</p>\n<p> </p>",
+            "author": {
+                "name": "Mark Zimmerman"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-27T10:36:04-05:00",
+            "date_modified": "2020-11-27T10:36:04-05:00"
+        }
+    ]
+}

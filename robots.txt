@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mark-zim.github.io/sitemap.xml
